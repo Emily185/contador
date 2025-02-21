@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: antiquewhite;
+  color: #f8bbd0;
+  text-align: center;
+  font-family: "Englebert", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-size: 60px;
+}
+#valor {
+  font-size: 90px;
+  font-weight: bold;
+}
+.btn {
+  font-size: 25px;
+  border: 10px;
+  background-color: #fce4ec;
+  color: #c2185b;
+  font-family: "DynaPuff", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  cursor: pointer;
+}
